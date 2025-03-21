@@ -18,7 +18,6 @@ define Package/$(PKG_NAME)
   CATEGORY:=prpl Foundation
   SUBMENU:=Plugins
   TITLE:=$(SHORT_DESCRIPTION)
-  URL:=https://gitlab.com/prpl-foundation/components/ambiorix/examples/datamodel/greeter_plugin
   DEPENDS += +libamxc
   DEPENDS += +libamxp
   DEPENDS += +libamxd
